@@ -1,37 +1,5 @@
-libksane (4:4.7.1-0ubuntu2) oneiric; urgency=low
+libksane (4:4.7.1-0r0) UNRELEASED; urgency=low
 
-  * No-change rebuild so translations aren't stripped from .desktop
-    files anymore.
+  * Initial release. Start from the Ubuntu packaging, thanks!
 
- -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 16 Sep 2011 01:16:09 +0200
-
-libksane (4:4.7.1-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Romain Perier <bambi@ubuntu.com>  Wed, 07 Sep 2011 18:21:10 +0200
-
-libksane (4:4.7.0-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release. 
-
- -- Philip Muškovac <yofel@kubuntu.org>  Mon, 25 Jul 2011 00:39:09 +0200
-
-libksane (4:4.6.90-0ubuntu2) oneiric; urgency=low
-
-  * Only break/replace kdegraphics-libs-data << 4:4.6.80 to make the
-    transitional package installable.
-
- -- Felix Geyer <debfx-pkg@fobos.de>  Thu, 14 Jul 2011 12:15:24 +0200
-
-libksane (4:4.6.90-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release candidate 
-    - update symbols file
-  * Split packaging from kdegraphics
-    - add libksane-data package for icons (breaks/replaces kdegraphics-libs-data)
-    - libksane-dbg breaks/replaces kdegraphics-dbg
-    - replace kdebase-runtime with kde-runtime
-    - Version the Breaks/Replaces of libksane-dbg on okular-dbg to << 4:4.6.80
-
- -- Philip Muškovac <yofel@kubuntu.org>  Fri, 08 Jul 2011 08:53:03 +0200
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Mon, 26 Sep 2011 22:36:59 +0200
