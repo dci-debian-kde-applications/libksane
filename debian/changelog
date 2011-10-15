@@ -1,5 +1,5 @@
-libksane (4:4.7.1-0r1) UNRELEASED; urgency=low
+libksane (4:4.7.2-0r0) UNRELEASED; urgency=low
 
   * Initial release. Start from the Ubuntu packaging, thanks!
 
- -- José Manuel Santamaría Lema <panfaust@gmail.com>  Mon, 26 Sep 2011 22:36:59 +0200
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Sat, 15 Oct 2011 22:55:18 +0200
