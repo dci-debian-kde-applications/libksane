@@ -1,5 +1,6 @@
-libksane (4:4.7.2-0r0) UNRELEASED; urgency=low
+libksane (4:4.7.2-0r0) experimental; urgency=low
 
+  [ José Manuel Santamaría Lema ]
   * Initial release. Start from the Ubuntu packaging, thanks!
 
- -- José Manuel Santamaría Lema <panfaust@gmail.com>  Sat, 15 Oct 2011 22:55:18 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:43:00 -0300
