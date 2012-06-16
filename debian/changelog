@@ -1,6 +1,7 @@
-libksane (4:4.8.4-0r1) UNRELEASED; urgency=low
+libksane (4:4.8.4-1) unstable; urgency=low
 
-  * 
+  * New upstream release
+  * update symbol file
 
  -- Sune Vuorela <sune@debian.org>  Sun, 17 Jun 2012 01:48:19 +0200
 
