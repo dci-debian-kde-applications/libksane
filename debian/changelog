@@ -1,10 +1,10 @@
-libksane (4:4.10.2-1) UNRELEASED; urgency=low
+libksane (4:4.10.2-1) experimental; urgency=low
 
   * New upstream
   * Bump build-deps
   * Update uploaders
 
- -- Sune Vuorela <sune@debian.org>  Sat, 06 Apr 2013 23:18:03 +0000
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 10:44:34 +0000
 
 libksane (4:4.8.4-1) unstable; urgency=low
 
