@@ -1,8 +1,9 @@
-libksane (4:4.10.2-2) UNRELEASED; urgency=low
+libksane (4:4.10.3-1) UNRELEASED; urgency=low
 
   * Add watch file.
+  * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 28 May 2013 15:17:36 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 May 2013 15:21:49 +0200
 
 libksane (4:4.10.2-1) experimental; urgency=low
 
