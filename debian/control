@@ -11,7 +11,7 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.10),
  libphonon-dev (>= 4:4.6.0really4.3.80),
  libsane-dev,
  libx11-dev
-Standards-Version: 3.9.2
+Standards-Version: 3.9.4
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/libs/libksane
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/libksane.git
 Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/libksane.git
