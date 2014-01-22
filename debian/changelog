@@ -1,4 +1,4 @@
-libksane (4:4.11.5-1) UNRELEASED; urgency=low
+libksane (4:4.11.5-1) unstable; urgency=low
 
   * New upstream release.
   * Enable build failures on missing symbols.
@@ -6,7 +6,7 @@ libksane (4:4.11.5-1) UNRELEASED; urgency=low
   * Do not disable an empty test set.
   * Add abi-compliance-checker info.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jan 2014 16:38:05 -0300
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jan 2014 17:11:35 -0300
 
 libksane (4:4.11.3-1) unstable; urgency=low
 
