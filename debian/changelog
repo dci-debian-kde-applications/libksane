@@ -1,8 +1,8 @@
-libksane (4:4.11.4-1) UNRELEASED; urgency=low
+libksane (4:4.11.5-1) UNRELEASED; urgency=low
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 06 Dec 2013 16:08:25 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jan 2014 16:38:05 -0300
 
 libksane (4:4.11.3-1) unstable; urgency=low
 
