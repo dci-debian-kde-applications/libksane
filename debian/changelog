@@ -1,6 +1,7 @@
 libksane (4:4.11.5-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Enable build failures on missing symbols.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jan 2014 16:38:05 -0300
 
