@@ -3,6 +3,7 @@ libksane (4:4.11.5-1) UNRELEASED; urgency=low
   * New upstream release.
   * Enable build failures on missing symbols.
   * Bump Standards-Version to 3.9.5, no changes needed.
+  * Do not disable an empty test set.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jan 2014 16:38:05 -0300
 
