@@ -23,8 +23,8 @@ License: GPL-2+
 Files: ksanetwain/twain.h
 Copyright: 1991, 1992 TWAIN Working Group: Aldus, Caere, Eastman-Kodak, Hewlett-Packard and Logitech Corporations.
            1997 TWAIN Working Group: Bell+Howell, Canon, DocuMagix, Fujitsu, Genoa Technology, Hewlett-Packard, Kofax Imaging Products, and Ricoh Corporation.
-           1998 TWAIN Working Group: Adobe Systems Incorporated, Canon Information Systems, Eastman Kodak Company, Fujitsu Computer Products of America, Genoa Technology, Hewlett-Packard Company, Intel Corporation, Kofax Image Products, JFL Peripheral Solutions Inc., Ricoh Corporation, and Xerox Corporation.  
-           2000 TWAIN Working Group: Adobe Systems Incorporated, Canon Information Systems, Digimarc Corporation, Eastman Kodak Company, Fujitsu Computer Products of America, Hewlett-Packard Company, JFL Peripheral Solutions Inc., Ricoh Corporation, and Xerox Corporation.  
+           1998 TWAIN Working Group: Adobe Systems Incorporated, Canon Information Systems, Eastman Kodak Company, Fujitsu Computer Products of America, Genoa Technology, Hewlett-Packard Company, Intel Corporation, Kofax Image Products, JFL Peripheral Solutions Inc., Ricoh Corporation, and Xerox Corporation.
+           2000 TWAIN Working Group: Adobe Systems Incorporated, Canon Information Systems, Digimarc Corporation, Eastman Kodak Company, Fujitsu Computer Products of America, Hewlett-Packard Company, JFL Peripheral Solutions Inc., Ricoh Corporation, and Xerox Corporation.
 License:
  The file twain.h may be copied under the TWAIN License as specified at
  http://www.twain.org/license.shtm
@@ -73,7 +73,7 @@ License: GPL-2+
  with this program; if not, write to the Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  .
- On Debian systems, the full text of the GNU General Public License 
+ On Debian systems, the full text of the GNU General Public License
  version 2 can be found in the file
  `/usr/share/common-licenses/GPL-2'.
 
