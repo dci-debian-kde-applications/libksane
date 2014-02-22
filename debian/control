@@ -25,6 +25,8 @@ Depends: libksane-data (>= ${source:Version}),
 Description: scanner library (runtime)
  The KDE scanner library provides an API and widgets for using scanners and
  other imaging devices supported by SANE.
+ .
+ This package contains the shared library.
 
 Package: libksane-data
 Section: libs
@@ -35,6 +37,8 @@ Replaces: kdegraphics-libs-data (<< 4:4.6.80)
 Description: scanner library (data files)
  The KDE scanner library provides an API and widgets for using scanners and
  other imaging devices supported by SANE.
+ .
+ This package contains the shared data.
 
 Package: libksane-dev
 Section: libdevel
@@ -55,6 +59,6 @@ Priority: extra
 Depends: kde-runtime-dbg, libksane0 (= ${binary:Version}), ${misc:Depends}
 Replaces: kdegraphics-dbg, okular-dbg (<< 4:4.6.80)
 Breaks: kdegraphics-dbg, okular-dbg (<< 4:4.6.80)
-Description: debugging symbols for the KDE graphics module
+Description: debugging symbols for libksane
  This package contains debugging files used to investigate problems with
- binaries included in the KDE scanner library
+ binaries included in the KDE scanner library.
