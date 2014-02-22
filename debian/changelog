@@ -1,5 +1,7 @@
 libksane (4:4.11.5-2) UNRELEASED; urgency=medium
 
+  [ Pino Toscano ]
+  * Update symbols file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 22 Feb 2014 22:09:22 +0100
 
