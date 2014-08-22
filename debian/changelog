@@ -1,3 +1,9 @@
+libksane (4:4.14.0-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:15:12 +0200
+
 libksane (4:4.12.3-2) unstable; urgency=medium
 
   * Release to unstable
