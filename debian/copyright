@@ -25,7 +25,7 @@ Copyright: 1991, 1992 TWAIN Working Group: Aldus, Caere, Eastman-Kodak, Hewlett-
            1997 TWAIN Working Group: Bell+Howell, Canon, DocuMagix, Fujitsu, Genoa Technology, Hewlett-Packard, Kofax Imaging Products, and Ricoh Corporation.
            1998 TWAIN Working Group: Adobe Systems Incorporated, Canon Information Systems, Eastman Kodak Company, Fujitsu Computer Products of America, Genoa Technology, Hewlett-Packard Company, Intel Corporation, Kofax Image Products, JFL Peripheral Solutions Inc., Ricoh Corporation, and Xerox Corporation.
            2000 TWAIN Working Group: Adobe Systems Incorporated, Canon Information Systems, Digimarc Corporation, Eastman Kodak Company, Fujitsu Computer Products of America, Hewlett-Packard Company, JFL Peripheral Solutions Inc., Ricoh Corporation, and Xerox Corporation.
-License:
+License: TWAIN
  The file twain.h may be copied under the TWAIN License as specified at
  http://www.twain.org/license.shtm
  .
