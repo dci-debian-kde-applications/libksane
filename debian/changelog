@@ -1,4 +1,4 @@
-libksane (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+libksane (4:14.11.97-0ubuntu1~ubuntu15.04~ppa1) vivid; urgency=medium
 
   * Initial release for KDE applications 14.12 series 
    - Change maintainer to Debian/Kubuntu
