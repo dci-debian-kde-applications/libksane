@@ -1,7 +1,7 @@
 libksane (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
-  * New upstream release
+  * wrap-and-sort
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 22:56:05 -0700
 
