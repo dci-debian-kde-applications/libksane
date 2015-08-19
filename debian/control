@@ -11,7 +11,7 @@ Build-Depends: cmake,
                libsane-dev,
                libx11-dev,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/libs/libksane
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/libksane.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/libksane.git
