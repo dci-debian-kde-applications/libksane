@@ -1,8 +1,8 @@
-libksane (4:15.08.2-1~) UNRELEASED; urgency=medium
+libksane (4:15.08.2-1) unstable; urgency=medium
 
   * New upstream release (15.08.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Oct 2015 15:22:51 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:06:39 +0200
 
 libksane (4:15.04.0-1) unstable; urgency=medium
 
