@@ -1,2 +1,2 @@
-usr/lib/libksane.so.0
-usr/lib/libksane.so.0.2.0
+usr/lib/*/libKF5Sane.so.5
+usr/lib/*/libKF5Sane.so.5.1.0

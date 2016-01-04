@@ -1,6 +1,9 @@
 libksane (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Adding new build deps
+  * Updating rules file
+  * Updating install files
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:35:16 +0000
 
