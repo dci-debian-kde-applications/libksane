@@ -2,15 +2,16 @@
 <descriptor>
 
 <version>
-    4.11.3
+    15.12.0
 </version>
 
 <headers>
-    /usr/include/libksane
+    /usr/include/KF5/KSane/
+    /usr/include/KF5/ksane_version.h
 </headers>
 
 <libs>
-    /usr/lib/libksane.so
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libKF5Sane.so
 </libs>
 
 </descriptor>
