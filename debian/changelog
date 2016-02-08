@@ -1,11 +1,21 @@
-libksane (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+libkf5sane (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
-  * Adding new build deps
-  * Updating rules file
-  * Updating install files
+  * Merged with Debian
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:35:16 +0000
+ -- Clive Johnston <clivejo@aol.com>  Mon, 08 Feb 2016 20:23:17 +0000
+
+libkf5sane (15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:22:57 +0100
+
+libksane (4:15.08.2-1) unstable; urgency=medium
+
+  * New upstream release (15.08.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:06:39 +0200
 
 libksane (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -42,34 +52,41 @@ libksane (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 22:31:23 +0200
 
+libksane (4:15.04.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 31 Aug 2015 11:27:00 +0200
+
 libksane (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:37:20 -0700
 
+libksane (4:14.12.2-1) experimental; urgency=medium
+
+  * New upstream release (14.12.2).
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 20 Feb 2015 09:19:21 +0100
+
 libksane (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
+  * Remove kdelibs5-dev depend version as there was not a new release.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:41:26 -0800
 
-libksane (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  * New upstream release
-  * Remove kdelibs5-dev depend version as there was not a new release.
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 12 Dec 2014 11:45:42 -0800
-
 libksane (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
-  * Debian merge, remaining changes: 
+  * Debian merge, remaining changes:
    - Add missing TWAIN short license.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 01 Dec 2014 13:30:28 +0000
@@ -77,7 +94,7 @@ libksane (4:14.11.97-0ubuntu1) vivid; urgency=medium
 libksane (4:4.14.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Add missing TWAIN short license. 
+  * Add missing TWAIN short license.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 06:26:41 -0700
 
@@ -444,7 +461,7 @@ libksane (4:4.8.2-0ubuntu1) precise; urgency=low
 
 libksane (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sat, 03 Mar 2012 18:59:20 +0100
 
@@ -481,7 +498,7 @@ libksane (4:4.7.4-2) unstable; urgency=low
 libksane (4:4.7.4-1) experimental; urgency=low
 
   * New upstream relese.
-  
+
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
@@ -522,7 +539,7 @@ libksane (4:4.7.1-0ubuntu1) oneiric; urgency=low
 
 libksane (4:4.7.0-0ubuntu1) oneiric; urgency=low
 
-  * New upstream release. 
+  * New upstream release.
 
  -- Philip Muškovac <yofel@kubuntu.org>  Mon, 25 Jul 2011 00:39:09 +0200
 
@@ -535,7 +552,7 @@ libksane (4:4.6.90-0ubuntu2) oneiric; urgency=low
 
 libksane (4:4.6.90-0ubuntu1) oneiric; urgency=low
 
-  * New upstream release candidate 
+  * New upstream release candidate
     - update symbols file
   * Split packaging from kdegraphics
     - add libksane-data package for icons (breaks/replaces kdegraphics-libs-data)
@@ -544,4 +561,3 @@ libksane (4:4.6.90-0ubuntu1) oneiric; urgency=low
     - Version the Breaks/Replaces of libksane-dbg on okular-dbg to << 4:4.6.80
 
  -- Philip Muškovac <yofel@kubuntu.org>  Fri, 08 Jul 2011 08:53:03 +0200
-
