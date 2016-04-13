@@ -23,8 +23,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/libksane.git
 Package: libkf5sane5
 Section: libs
 Architecture: any
-Depends: ${misc:Depends},
-         ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: scanner library (runtime)
  The KDE scanner library provides an API and widgets for using scanners and
  other imaging devices supported by SANE.
@@ -35,8 +34,8 @@ Package: libkf5sane-dev
 Section: libdevel
 Architecture: any
 Depends: libkf5sane5 (= ${binary:Version}),
-         ${misc:Depends},
-         qtbase5-dev (>= 5.2.0~)
+         qtbase5-dev (>= 5.2.0~),
+         ${misc:Depends}
 Description: scanner library development headers
  The KDE scanner library provides an API and widgets for using scanners and
  other imaging devices supported by SANE.
