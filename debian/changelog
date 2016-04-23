@@ -1,3 +1,12 @@
+libkf5sane (16.04.0-1~1.gbp4a64c4) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @4a64c49aaa16c0294aab15f6f8f6e5acbbaa4052 **
+
+  * Bump Standards-Version to 3.9.8
+  * UNRELEASED
+
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 03:42:09 +0200
+
 libkf5sane (15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
