@@ -1,11 +1,20 @@
-libkf5sane (16.04.0-1~1.gbp4a64c4) UNRELEASED; urgency=medium
+libkf5sane (16.04.0-1~2.gbp3e0f66) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @3e0f664c7c0711f1757ed5107619dc36ae1bfa88 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @4a64c49aaa16c0294aab15f6f8f6e5acbbaa4052 **
 
   * Bump Standards-Version to 3.9.8
   * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 03:42:09 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Add data files
+  * Add breaks replaces regarding libksane-data
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 23 Apr 2016 10:36:28 +0200
 
 libkf5sane (15.12.0-1) experimental; urgency=medium
 
