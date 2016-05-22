@@ -1,12 +1,7 @@
-libkf5sane (16.04.0-1~2.gbp3e0f66) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @3e0f664c7c0711f1757ed5107619dc36ae1bfa88 **
+libkf5sane (16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @4a64c49aaa16c0294aab15f6f8f6e5acbbaa4052 **
-
   * Bump Standards-Version to 3.9.8
-  * UNRELEASED
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
@@ -14,7 +9,7 @@ libkf5sane (16.04.0-1~2.gbp3e0f66) UNRELEASED; urgency=medium
   * Add data files
   * Add breaks replaces regarding libksane-data
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 23 Apr 2016 10:36:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 May 2016 10:11:44 +0200
 
 libkf5sane (15.12.0-1) experimental; urgency=medium
 
