@@ -1,6 +1,7 @@
-libksane (4:15.08.2-2) UNRELEASED; urgency=medium
+libksane (4:15.08.3-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
+  * New upstream release.
   * Update Vcs-* fields.
   * Update watch file to monitor only old 15.08.x tarballs.
   * Bump Standards-Version to 3.9.8, no changes required.
