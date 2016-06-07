@@ -51,14 +51,3 @@ Description: scanner library development headers
  other imaging devices supported by SANE.
  .
  This package contains the scanner library development files.
-
-Package: libksane-dbg
-Section: debug
-Architecture: any
-Priority: extra
-Depends: kde-runtime-dbg, libksane0 (= ${binary:Version}), ${misc:Depends}
-Replaces: kdegraphics-dbg, okular-dbg (<< 4:4.6.80)
-Breaks: kdegraphics-dbg, okular-dbg (<< 4:4.6.80)
-Description: debugging symbols for libksane
- This package contains debugging files used to investigate problems with
- binaries included in the KDE scanner library.

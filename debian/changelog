@@ -5,6 +5,7 @@ libksane (4:15.08.3-0r1) UNRELEASED; urgency=medium
   * Update Vcs-* fields.
   * Update watch file to monitor only old 15.08.x tarballs.
   * Bump Standards-Version to 3.9.8, no changes required.
+  * Remove libksane-dbg in favour of the -dbgsym packages.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 07 Jun 2016 07:32:28 +0200
 

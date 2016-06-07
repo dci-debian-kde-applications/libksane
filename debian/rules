@@ -7,4 +7,4 @@ override_dh_shlibdeps:
 	$(overridden_command) --remaining-packages
 
 override_dh_strip:
-	$(overridden_command) --dbg-package=libksane-dbg
+	$(overridden_command) --dbgsym-migration='libksane-dbg (<< 4:15.08.3-1~)'
