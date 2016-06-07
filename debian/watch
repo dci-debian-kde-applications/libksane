@@ -1,2 +1,3 @@
 version=3
-http://download.kde.org/stable/applications/([\d.]+)/src/libksane-([\d.]+).tar.xz
+# monitor only 15.08.x tarballs, since this source is only for kde4-based apps
+http://download.kde.org/stable/applications/(15\.08\.[\d.]+)/src/libksane-([\d.]+).tar.xz
