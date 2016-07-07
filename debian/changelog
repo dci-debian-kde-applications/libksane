@@ -1,3 +1,9 @@
+libkf5sane (16.04.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 07 Jul 2016 11:36:37 +0000
+
 libkf5sane (16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
