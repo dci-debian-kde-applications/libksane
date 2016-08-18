@@ -1,3 +1,11 @@
+libkf5sane (16.08.0-1~1.gbpc86b9d) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c86b9d78b844329bab1ae4dd5281360dbeb5f46d **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 21:42:26 +0200
+
 libkf5sane (16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
