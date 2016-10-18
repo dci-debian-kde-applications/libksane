@@ -1,10 +1,12 @@
-libkf5sane (16.08.0-1~1.gbpc86b9d) UNRELEASED; urgency=medium
+libkf5sane (16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @c86b9d78b844329bab1ae4dd5281360dbeb5f46d **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 21:42:26 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.0)
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 18 Oct 2016 09:49:58 +0200
 
 libkf5sane (16.04.0-1) unstable; urgency=medium
 
