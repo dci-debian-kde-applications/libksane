@@ -23,8 +23,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libksane.git
 Package: libkf5sane-data
 Architecture: all
 Depends: ${misc:Depends}
-Breaks: libksane-data
-Replaces: libksane-data
+Breaks: libksane-data, ${kde-l10n:all}
+Replaces: libksane-data, ${kde-l10n:all}
 Description: scanner library (data files)
  The KDE scanner library provides an API and widgets for using scanners and
  other imaging devices supported by SANE.
