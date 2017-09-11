@@ -14,22 +14,11 @@ Build-Depends: cmake (>= 3.0.0~),
                libsane-dev,
                libx11-dev,
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.2.0~)
+               qtbase5-dev (>= 5.2.0~),
 Standards-Version: 4.1.0
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/libs/libksane
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/libksane.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libksane.git
-
-Package: libkf5sane5
-Architecture: any
-Depends: libkf5sane-data (= ${source:Version}) | libksane-data,
-         ${misc:Depends},
-         ${shlibs:Depends}
-Description: scanner library (runtime)
- The KDE scanner library provides an API and widgets for using scanners and
- other imaging devices supported by SANE.
- .
- This package contains the shared library.
 
 Package: libkf5sane-data
 Architecture: all
@@ -47,9 +36,20 @@ Section: libdevel
 Architecture: any
 Depends: libkf5sane5 (= ${binary:Version}),
          qtbase5-dev (>= 5.2.0~),
-         ${misc:Depends}
+         ${misc:Depends},
 Description: scanner library development headers
  The KDE scanner library provides an API and widgets for using scanners and
  other imaging devices supported by SANE.
  .
  This package contains the scanner library development files.
+
+Package: libkf5sane5
+Architecture: any
+Depends: libkf5sane-data (= ${source:Version}) | libksane-data,
+         ${misc:Depends},
+         ${shlibs:Depends},
+Description: scanner library (runtime)
+ The KDE scanner library provides an API and widgets for using scanners and
+ other imaging devices supported by SANE.
+ .
+ This package contains the shared library.
