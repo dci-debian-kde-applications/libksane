@@ -1,3 +1,10 @@
+libkf5sane (17.08.3-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 05 Dec 2017 06:25:04 +0100
+
 libkf5sane (17.08.1-1) experimental; urgency=medium
 
   * New upstream release (17.08.1)
