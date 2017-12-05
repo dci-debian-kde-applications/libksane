@@ -45,7 +45,7 @@ Description: scanner library development headers
 
 Package: libkf5sane5
 Architecture: any
-Depends: libkf5sane-data (= ${source:Version}) | libksane-data,
+Depends: libkf5sane-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends},
 Description: scanner library (runtime)
