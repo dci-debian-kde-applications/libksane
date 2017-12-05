@@ -6,6 +6,7 @@ libkf5sane (17.08.3-0r1) UNRELEASED; urgency=medium
   * Simplify watch file, and switch it to https.
   * Remove the libksane-data alternative dependency in libkf5sane5, making it
     depend on libkf5sane-data exclusively.
+  * Stop excluding kde-runtime from shlibdeps, since it is no more injected.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 05 Dec 2017 06:25:04 +0100
 
